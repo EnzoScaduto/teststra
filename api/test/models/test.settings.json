@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tests",
+  "info": {
+    "name": "test"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ok": {
+      "type": "string"
+    },
+    "fok": {
+      "type": "string"
+    },
+    "hello": {
+      "via": "tests",
+      "model": "hello"
+    }
+  }
+}
