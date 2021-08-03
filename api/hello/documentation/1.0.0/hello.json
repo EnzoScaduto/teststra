@@ -555,6 +555,9 @@
           },
           "ok": {
             "type": "string"
+          },
+          "fdsfd": {
+            "type": "string"
           }
         }
       },
@@ -567,6 +570,9 @@
             }
           },
           "ok": {
+            "type": "string"
+          },
+          "fdsfd": {
             "type": "string"
           },
           "created_by": {

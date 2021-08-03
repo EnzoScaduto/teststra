@@ -18,6 +18,9 @@
     },
     "ok": {
       "type": "string"
+    },
+    "fdsfd": {
+      "type": "string"
     }
   }
 }
